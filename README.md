@@ -15,12 +15,15 @@ Missing:
 -
 - - [ ] Need to find examples of equipped power ups getting used (Consumables). And find out if multiple can be equipped.
 
-- - [ ] Learn about strange shroom
+- - [ ] Find usages of strange shroom and take notes of the effects.
 
-- - [ ] Consumable bombs – find example use
+- - [ ] Find usages of consumable bombs.
 
 - - [ ] Defense Booster giving mana is unrelated. Need to find the problem.
+
 - - [ ] Dingle Token
+
+- - [ ] Luck Booster values need to be determined. 
 
 All Items that are a part of this system:
 -
