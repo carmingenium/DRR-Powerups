@@ -55,7 +55,6 @@ All Items that are a part of this system:
 
 - **Double XP Booster (Regular – Major – Epic) Regular:** Double exp for 1 hour. **Major:** 4x Exp for 30 mins. **Epic:** 10x exp for 15 minutes.
 
-<![endif]-->
 
 ## **Powerups**
 
