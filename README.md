@@ -53,7 +53,7 @@ All Items that are a part of this system:
 
 - **Party Bomb:** Revives party to full health & damages enemies.
 
-- **Dingle Token: ????**
+- <del>**Dingle Token: ????**<del>
 
 - **Double XP Booster (Regular – Major – Epic) Regular:** Double exp for 1 hour. **Major:** 4x Exp for 30 mins. **Epic:** 10x exp for 15 minutes.
 
