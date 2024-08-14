@@ -21,7 +21,7 @@ Missing:
 
 - - [ ] Defense Booster giving mana is unrelated. Need to find the problem.
 
-- - [ ] Dingle Token
+- - [x] Dingle Token
 
 - - [ ] Luck Booster values need to be determined. 
 
