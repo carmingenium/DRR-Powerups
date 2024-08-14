@@ -12,18 +12,17 @@ Notes:
 - These two categories are divided as “**PROGRESSION**” *(for STUFF)* and “**CONSUMABLE**” *(for POWERUPS)* in the JSON file.
 
 Missing:
--
-- - [ ] Need to find examples of equipped power ups getting used (Consumables). And find out if multiple can be equipped.
+- Need to find examples of equipped power ups getting used (Consumables). And find out if multiple can be equipped.
 
-- - [ ] Find usages of strange shroom and take notes of the effects.
+- Find usages of strange shroom and take notes of the effects.
 
-- - [ ] Find usages of consumable bombs.
+- Find usages of consumable bombs.
 
-- - [ ] Defense Booster giving mana is unrelated. Need to find the problem.
+- Defense Booster giving mana is unrelated. Need to find the problem.
 
-- - [x] Dingle Token
+- <del>Dingle Token<del>
 
-- - [ ] Luck Booster values need to be determined. 
+- Luck Booster values need to be determined. 
 
 All Items that are a part of this system:
 -
