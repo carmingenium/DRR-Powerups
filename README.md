@@ -12,17 +12,19 @@ Notes:
 - These two categories are divided as “**PROGRESSION**” *(for STUFF)* and “**CONSUMABLE**” *(for POWERUPS)* in the JSON file.
 
 Missing:
-- Need to find examples of equipped power ups getting used (Consumables). And find out if multiple can be equipped.
+- <del>Need to find examples of equipped power ups getting used (Consumables). (https://www.youtube.com/watch?v=3ACBONX4dcU 7:05 for consumable animation, https://www.youtube.com/watch?v=8viEXU6d-ko - has multiple usages, https://www.youtube.com/watch?v=6QWyJWfCyg4 - attack up booster has extra animations it seems) (https://www.youtube.com/watch?v=0O3v_fhoCaY - start of this for equipping 3 boosters, no consumables here.) 
 
-- Find usages of strange shroom and take notes of the effects.
+- <del>Find out if multiple can be equipped (yes, 2 exactly.).
 
-- Find usages of consumable bombs.
+- <del>Find usages of strange shroom and take notes of the effects (no data).
 
-- Defense Booster giving mana is unrelated. Need to find the problem.
+- <del> Find usages of consumable bombs (visuals needed for implementation. Range and effects.) (https://www.youtube.com/watch?v=6QWyJWfCyg4 1:50 - bomb gets in between mobs but can be seen put down and range can be calculated).
 
-- <del>Dingle Token<del>
+- <del> Defense Booster giving mana is unrelated. Need to find the problem (no data).
 
-- Luck Booster values need to be determined. 
+- <del>Dingle Token
+
+- <del> Luck Booster values need to be determined (no data). 
 
 All Items that are a part of this system:
 -
