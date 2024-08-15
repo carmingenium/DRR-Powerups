@@ -24,7 +24,7 @@ Missing:
 
 - <del>Dingle Token
 
-- <del> Luck Booster values need to be determined (no data). 
+- <del> Luck Booster values need to be determined (found some data, not spesific enough). 
 
 All Items that are a part of this system:
 -
@@ -37,7 +37,7 @@ All Items that are a part of this system:
 
 - **Party Bomb (outside of JSON):** Revives party to full health and damages enemies.
 
-- **Luck Booster (Minor – Regular – Major):** Drink to gain better Item Drop rolls for the next Dungeon.
+- **Luck Booster (Minor – Regular – Major): Drink to gain better Item Drop rolls for the next Dungeon (5-25-50 (given values in JSON file)).
 
 - **Speed Booster:** Increases movement speed by 20% for the next Dungeon
 
